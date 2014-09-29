@@ -7,3 +7,5 @@ Som mentor behöver du kunna ställa upp på en dojo varannan vecka och givetvis
 Om du är intresserad så kontakta oss snarast. Den 15 oktober kommer vi att hålla den första CoderDojon i Kalmar. 
 
 Intresserad? Maila: johan.leitet@lnu.se
+
+Gå med i vår grupp på FB: [https://www.facebook.com/groups/coderdojo.kalmar/](https://www.facebook.com/groups/coderdojo.kalmar/)

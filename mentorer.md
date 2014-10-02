@@ -4,7 +4,9 @@ För att vara mentor behöver du inte vara lärare utan det viktiga är att du h
 
 Som mentor behöver du kunna ställa upp på en dojo varannan vecka och givetvis kan vi täcka upp för varandra om någon vecka inte fungerar. 
 
-Om du är intresserad så kontakta oss snarast. Den 15 oktober kommer vi att hålla den första CoderDojon i Kalmar. 
+Om du är intresserad så kontakta oss snarast. Den 15 oktober klockan 17.00-19.00 kommer vi att hålla den första CoderDojon i Kalmar. För mentorerna vore det dock bra om vi kan träffas redan klockan 15.00 detta första tillfälle.
+
+Adressen är Nygatan 34 i AV Medias lokaler.
 
 Intresserad? Maila: johan.leitet@lnu.se
 
